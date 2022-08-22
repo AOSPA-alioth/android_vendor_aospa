@@ -57,7 +57,8 @@ PRODUCT_PACKAGES += \
     IconPackRoundedSettingsOverlay \
     IconPackRoundedSystemUIOverlay \
     IconPackRoundedThemePickerOverlay \
-    ParanoidLauncherOverlay
+    ParanoidLauncherOverlay \
+    ImmersiveNavigationOverlay
 
 # Translation Overlays
 PRODUCT_PACKAGES += \
