@@ -1,21 +1,21 @@
 [
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_alioth",
+        "remote":       "github",
+        "repository":   "Xeesan/android_device_xiaomi_alioth",
         "target_path":  "device/xiaomi/alioth",
-        "revision":     "topaz"
+        "revision":     "clo-wip"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_kernel_xiaomi_sm8250",
+        "remote":       "github",
+        "repository":   "AOSPA-alioth/kernel_xiaomi_sm8250",
         "target_path":  "kernel/msm-4.19",
         "revision":     "topaz"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_xiaomi",
-        "target_path":  "vendor/xiaomi",
-        "revision":     "topaz",
+        "remote":       "gitlab",
+        "repository":   "Xeesan/vendor_xiaomi_alioth",
+        "target_path":  "vendor/xiaomi/alioth",
+        "revision":     "clo-13",
         "clone-depth":  "1"
     },
     {
