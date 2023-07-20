@@ -1,9 +1,9 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_alioth",
+        "repository":   "Xeesan/android_device_xiaomi_alioth",
         "target_path":  "device/xiaomi/alioth",
-        "revision":     "topaz"
+        "revision":     "topaz-new-nofx"
     },
     {
         "remote":       "aospa",
